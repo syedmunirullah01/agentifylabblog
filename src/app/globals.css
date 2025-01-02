@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-gradient-135 {
+    background: linear-gradient(135deg, #efeaed, #ffffff);
+  }
+  .bg-gradient-136 {
+    background: linear-gradient(135deg, #e9e7e8, #ffffff);
+  }
+  .bg-gradient-137 {
+    background: linear-gradient(135deg, #d8d3d5, #ffffff);
+  }
+}
